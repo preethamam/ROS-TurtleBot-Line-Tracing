@@ -1,0 +1,9 @@
+uint8 k_size
+uint8 e_size
+uint8 d_size
+uint8 lowH
+uint8 highH
+uint8 lowS
+uint8 highS
+uint8 lowV
+uint8 highV
